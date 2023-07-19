@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea 4 Implementación de textos, animación e imagenes |
+| Nombre  |  Tarea 3 Implementación de textos, animación e imagenes |
 | Descripción  | Crear una aplicación implementando el uso de textos, animaciones e imagenes.  |
 |  Fecha de Carga | 24/05/23  |
